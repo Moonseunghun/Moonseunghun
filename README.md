@@ -10,9 +10,10 @@
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/flutter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img alt="Cirrus CI - Specific Branch Build Status" src="https://img.shields.io/cirrus/github/:user/:repo/:branch">
+<img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/react-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwind.css-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
