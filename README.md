@@ -28,10 +28,10 @@
           <img src="https://skillicons.dev/icons?i=styledcomponents" width="63" height="63" alt="styledcomponents" />
           <br>SC
       </td>
-      <td align="center"  width="95">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="63" height="63" alt="tailwind" />      
-          <br>TailwindCSS
-      </td>
+    <td align="center" width="95">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>c++
+    </td>
       <td align="center" width="95">
           <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
           <br>Sass
