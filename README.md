@@ -1,24 +1,59 @@
-<h3 align="center"><b>💌 Social 💌 </b></h3>
-</br>
-<p align="center">
-<a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
-<a href="https://www.instagram.com/인스타닉네임"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/204_sh_"/></a>
-<a href="https://velog.io/@dun08044"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
-</p>
+<div align="center">
+  
+<!-- ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=🐣Taeyoon's&nbsp;GitHub&fontSize=40&animation=twinkling) -->
 
-<h3 align="center"><b>📚 Languages 📚</b></h3>
-</br>
-<p align="center">
-<img src="https://img.shields.io/badge/flutter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/react-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwind.css-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
 
-<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
+
+## :books: Tech Stack
+
+ <table>
+   <tr>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="63" height="63" />
+          <br>JavaScript
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="63" height="63" />
+          <br>TypeScript
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="63" height="63" />
+          <br>React
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=nextjs" width="63" height="63" alt="nextjs" />
+          <br>NextJS
+      </td>
+      <td align="center" width="95">
+          <img src="https://skillicons.dev/icons?i=styledcomponents" width="63" height="63" alt="styledcomponents" />
+          <br>SC
+      </td>
+      <td align="center"  width="95">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="63" height="63" alt="tailwind" />      
+          <br>TailwindCSS
+      </td>
+      <td align="center" width="95">
+          <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
+          <br>Sass
+      </td>
+   </tr>
+</table>
+
+## :wrench: Tool
+ <div>
+    <img src="https://skillicons.dev/icons?i=vscode" width="63" height="63" alt="vscode" title="VSCode" />
+    <img src="https://skillicons.dev/icons?i=git" width="63" height="63" alt="git" title="Git" />
+    <img src="https://skillicons.dev/icons?i=github" width="63" height="63" alt="github" title="Github" />
+    <img src="https://skillicons.dev/icons?i=githubactions" width="63" height="63" alt="githubactions" title="Github-Actions" />
+    <img src="https://skillicons.dev/icons?i=aws" width="63" height="63" alt="aws" title="AWS" />
+  </div>
+
 </br>
-<p align="center">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyooooon&layout=compact)](https://github.com/Taeyooooon/github-readme-stats)
+</br>
+<!-- ![Taeyooooon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyooooon&show_icons=true&count_private=true&theme=transparent) -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeyooooon&count_bg=%233DB4C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HI&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
