@@ -36,6 +36,10 @@
           <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="63" height="63" alt="sass" />
           <br>Sass
       </td>
+     <td   align="center" width="95">
+       <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" />
+       <br>swift
+     </td>
    </tr>
 </table>
 
