@@ -4,7 +4,7 @@
 
 
 
-## :books: Tech Stack
+## :books: seunghun Stacks
 
  <table>
    <tr>
