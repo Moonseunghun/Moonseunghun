@@ -29,7 +29,7 @@
           <br>SC
       </td>
     <td align="center" width="95">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/dart-icon.svg" alt="icon" width="65" height="65" />
       <br>c++
     </td>
       <td align="center" width="95">
